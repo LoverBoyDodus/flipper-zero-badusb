@@ -1,0 +1,18 @@
+REM dodus fake virus
+DELAY 300
+GUI R
+DELAY 300
+STRING https://geekprank.com/
+ENTER
+DELAY 300
+F11
+DELAY 1000
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+DELAY 300
+ENTER
